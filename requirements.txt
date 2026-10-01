@@ -1,5 +1,12 @@
-streamlit
 pypdf
-google-generativeai
+google-genai
 python-dotenv
 ddgs
+wikipedia
+mistralai
+fastapi
+uvicorn
+python-multipart
+faiss-cpu
+numpy
+yfinance
